@@ -1,7 +1,7 @@
 {
   "name": "simple-docker",
   "version": "1.9.0",
-  "description": "apka na zaliczenie ",
+  "description": "aplikacja na zaliczenie ",
   "main": "index.js",
   "scripts": {
     "build": "npm install",
