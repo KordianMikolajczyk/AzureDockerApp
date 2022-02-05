@@ -1,0 +1,29 @@
+{
+  "name": "simple-docker",
+  "version": "1.9.0",
+  "description": "apka na zaliczenie ",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install",
+    "test": "mocha --exit",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KordianMikolajczyk/AzureDockerApp.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "docker",
+    "azure"
+  ],
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
